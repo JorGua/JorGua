@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Hey 👋, I’m Jorge, a Business Analyst
-My skills include business analytics, data visualization and storytelling, SQL, tableau, power BI.
+My skills include business analytics, data visualization, storytelling, SQL, tableau, and power BI.
 
 <!--
 **JorGua/JorGua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
