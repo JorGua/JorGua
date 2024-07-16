@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Hey 👋, I’m Jorge, a Business Analyst
+## Hey 👋, I’m Jorge, a Bilingual Business Analyst
 
 With 10 years of experience in diverse roles, I developed a strong interest in the business analyst field, which led me to enroll in the TripleTen Business Analytics Bootcamp to further enhance my skills. The completion of this bootcamp has equipped me with advanced data analysis skills and technical proficiency in tools such as SQL, Tableau, and Power BI. This training complements my practical experience and has prepared me to tackle business challenges with a data-driven approach. My background includes overseeing complex construction projects, managing school activities, and maintaining facilities, showcasing my versatility and adaptability in various environments. 
 
